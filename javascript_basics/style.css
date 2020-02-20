@@ -53,6 +53,7 @@
     vertical-align: middle;
 }
 #bottomtext{
+    color:white;
     font-size: 17px;
     margin:10px;
     vertical-align: middle;
@@ -60,6 +61,9 @@
     padding-left: 10px;
     box-sizing: border-box;
 }
-.links_color{
+a{
     color:greenyellow;
+}
+span.strong{
+    color:blue;
 }
