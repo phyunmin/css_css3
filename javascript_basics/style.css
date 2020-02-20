@@ -1,0 +1,65 @@
+/*CSS reset settings here*/
+#wrapper{
+    width: 970px;
+    background-color: rgb(120, 165, 233);
+    margin: 0px auto;
+    padding:10px;
+}
+#header{
+    min-height: 150px;
+    background-color: red;
+    color:white;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    width:960px;
+    padding-top: 1px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+#navigation{
+    min-height: 300px;
+    width: 200px;
+    background-color: rgb(152, 152, 230);
+    margin-top: 20px;  
+    padding:10px;
+    display:inline-block;
+    border-radius: 20px;
+}
+#main_content{
+    color:white;
+    min-height: 400px;
+    width: 680px;
+    background-color: black;
+    margin-top:20px;
+    margin-left:20px;
+    padding:20px;
+    display:inline-block;
+    vertical-align: top;
+    border-radius: 20px;
+}
+#bottoms{
+    min-height: 50px;
+    width: 950px;
+    background-color: rgb(114, 110, 110);
+    margin-top:20px;
+    padding:10px;
+    vertical-align: middle;
+    border-radius: 20px;
+}
+#titles{
+    font-size: 45px;
+    margin:10px;
+    vertical-align: middle;
+}
+#bottomtext{
+    font-size: 17px;
+    margin:10px;
+    vertical-align: middle;
+    padding-top: 1px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.links_color{
+    color:greenyellow;
+}
