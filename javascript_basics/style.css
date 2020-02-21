@@ -18,8 +18,8 @@
     box-sizing: border-box;
 }
 #navigation{
-    min-height: 300px;
-    width: 200px;
+    min-height: 250px;
+    width: 220px;
     background-color: rgb(152, 152, 230);
     margin-top: 20px;  
     padding:10px;
@@ -29,7 +29,7 @@
 #main_content{
     color:white;
     min-height: 400px;
-    width: 680px;
+    width: 660px;
     background-color: black;
     margin-top:20px;
     margin-left:20px;
@@ -66,4 +66,12 @@ a{
 }
 span.strong{
     color:blue;
+}
+.nav1{
+    padding-bottom: -20px;
+    margin-left: 20px;
+}
+ul{
+    margin-top: 0px;
+    padding-left: 20px;
 }
